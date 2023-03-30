@@ -1,0 +1,3 @@
+#!/bin/bash
+antlr4 -Dlanguage=Python3 Lexer.g4
+antlr4 -Dlanguage=Python3 Parser.g4
